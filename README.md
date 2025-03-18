@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @o-mendonca  
+# 👋 Hi, I’m @omen-donka
 
 Welcome to my GitHub! I'm passionate about technology, arts, physics, engineering, problem-solving, and continuous learning.  
 
